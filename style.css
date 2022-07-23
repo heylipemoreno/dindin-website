@@ -39,6 +39,13 @@ body{
 
 a:link{
     text-decoration: none;
+}
+
+.header .nav li a{
+    color: white;
+}
+
+.header .nav li a:visited{
     color: white;
 }
 
@@ -63,6 +70,14 @@ footer{
     font-weight: 400;
     font-size: 20px;
     line-height: 23px;
+}
+
+footer .footer_menu li a{
+    color: white;
+}
+
+footer .footer_menu li a{
+    color: white;
 }
 
 #prof{
@@ -107,6 +122,14 @@ footer{
     background-color: #ffffff;
 }
 
+footer .right li a{
+    color: white;
+}
+
+footer .right li a:visited{
+    color: white;
+}
+
 /* i n d e x      i n d e x      i n d e x      i n d e x      i n d e x */
 
 .intro{
@@ -133,6 +156,14 @@ footer{
     font-size: 27px;
     font-weight: 400;
     color: #555555;
+}
+
+#button_pink1 a{
+    color: #FF4081;
+}
+
+#button_pink1 a:visited{
+    color: #FF4081;
 }
 
 #button_pink1{
@@ -172,6 +203,14 @@ footer{
 
 .paragrafo_cursos{
     max-width: 293px;
+}
+
+#button_pink2 a{
+    color: white;
+}
+
+#button_pink2 a:visited{
+    color: white;
 }
 
 #button_pink2{
